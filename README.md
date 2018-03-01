@@ -1,2 +1,2 @@
 # School
-Repozitář jsem založil, jelikož to byl můj školní úkol
+Repozitář jsem založil, jelikož to byl můj školní úkol, yup
