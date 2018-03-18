@@ -1,0 +1,54 @@
+body {
+		background: linear-gradient(#00BFFF, #87CEFA, #B0E0E6);
+		text-align: center;
+   }
+   h1 {
+		color: rgb(255, 0, 0);
+		font-style: bold;
+		font-family: "Comic Sans MS";
+		text-decoration: underline;
+		text-transform: capitalize;
+		font-size: 41px;
+   }
+   
+   h2 {
+		font-family: "Comic Sans MS";
+		color: rgb(255, 0, 0);
+		text-decoration: underline;
+		text-transform: capitalize;
+		font-size: 36px;
+   }
+   p {
+		text-align: justify;
+   }
+    .zanr {
+		font-size: 16px;
+		line-height: 20px;
+  }
+    .autor, .zdroj {
+		font-size: 23px;
+		font-weight: 900;
+		text-transform: uppercase;
+		line-height: 5px;
+	}
+	.uvod {
+		font-size: 23px;
+		text-decoration: bold;
+	}
+	
+	.pytel, .soutez {
+		text-align: justify;
+		font-weight: 500;
+	}
+	.content {
+		border: 2px solid black;
+		padding: 20px;
+		width: 50%;
+		margin-left: 25%;
+		font-family: "Times New Roman", Times, serif;
+		font-size: 21px;
+	}
+	.zaver {
+		text-align: center;
+		float: center;
+	}
