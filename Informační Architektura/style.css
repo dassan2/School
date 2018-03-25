@@ -1,0 +1,72 @@
+.content {
+	width: 50%;
+	margin-left: 25%;
+	}
+	
+	.main {
+	width: 60%;
+	float: left;
+	background-color: white;
+	padding: 15px;
+	margin-top: -160px;
+	}
+	
+	.body {
+	background-color: black;
+	}
+	
+	#zaver {
+	width: 35%;
+	height: 150px;
+	float: right;
+	background-color: #f2f2f2;
+	padding: 5px;
+	}
+	
+	.number {
+	width: 40px;
+	height: 40px;
+	font-size: 38px;
+	margin-right: 5px;
+	padding: 2px;
+	text-align: center;
+	border: 1px solid orange;
+	background: linear-gradient(#f6e155, #faefa5);
+	border-radius: 5px 0px 5px 0px;
+	color: black;
+	float: left;
+	}
+	
+	h1 {
+	font-size:36px;
+	line-height:40x;
+	}
+	
+	h2 {
+	font-size: 32px;
+	color: #0066cc;
+	text-decoration: underline;
+	}
+	
+	h3 {
+	font-size: 28px;
+	line-height: 30px;
+	color: #ff0084;
+	padding-left: 3px;
+	}
+	
+	p {
+	font-size: 16px;
+	padding-left: 5px;
+	}
+	
+	.head {
+	background: linear-gradient(to right, #7ebced, #54a7eb);
+	color: white;
+	padding: 15px 15px 5px 15px;
+	line-height: 15px;
+	}
+	
+	.link {
+	color: #0066cc;
+	}
